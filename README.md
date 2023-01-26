@@ -1,6 +1,8 @@
 # GuessANumberByJordan
 console game "Guess A Number"
 
+https://replit.com/@JordanioB/console-game-Guess-the-number#main.py
+
 • Project title (should answer the question "What's inside this project)
 
 • Project goals (what problem we solve, e. g. we implement a certain game)
